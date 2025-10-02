@@ -1,0 +1,11 @@
+Suma de los primeros 100 números naturales
+==========================================
+
+Cálculo: 1 + 2 + 3 + ... + 99 + 100
+
+Fórmula utilizada: n * (n + 1) / 2
+Donde n = 100
+
+Resultado: 100 * 101 / 2 = 5050
+
+La suma de los primeros 100 números naturales es: 5050
